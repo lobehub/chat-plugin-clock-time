@@ -7,9 +7,11 @@
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
+    "ci": "npm run lint && npm run type-check",
     "dev": "vite",
     "lint": "eslint \"{src,api,docs}/**/*.{js,jsx,ts,tsx}\" --fix",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit"
   },
   "dependencies": {
     "@lobehub/ui": "^1.108.2",
