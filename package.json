@@ -11,6 +11,7 @@
     "dev": "vite",
     "lint": "eslint \"{src,api,docs}/**/*.{js,jsx,ts,tsx}\" --fix",
     "preview": "vite preview",
+    "release": "semantic-release",
     "test": "vitest --passWithNoTests",
     "test:coverage": "vitest --coverage  --passWithNoTests",
     "type-check": "tsc --noEmit"
