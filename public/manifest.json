@@ -12,7 +12,7 @@
   "type": "standalone",
   "identifier": "clock-time",
   "ui": {
-    "url": "http://localhost:5173/",
+    "url": "https://clock-time.chat-plugin.lobehub.com",
     "height": 350,
     "width": 400
   },
