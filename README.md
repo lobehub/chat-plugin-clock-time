@@ -42,6 +42,8 @@ This plugin show a clock of current time.
 
 ## 🤯 Usage
 
+https://github.com/lobehub/lobe-chat/assets/28616219/206b4c94-4674-4007-ac4f-450b9778d7f6
+
 This is a function calling plugin for [Lobe Chat](https://github.com/lobehub/lobe-chat), you can install it in plugin setting page.
 
 <div align="right">
