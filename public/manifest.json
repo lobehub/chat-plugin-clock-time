@@ -9,8 +9,14 @@
       }
     }
   ],
-  "type": "standalone",
   "identifier": "clock-time",
+  "meta": {
+    "avatar": "🕐",
+    "tags": ["clock", "time"],
+    "title": "Clock Time",
+    "description": "Display a clock to show current time"
+  },
+  "type": "standalone",
   "ui": {
     "url": "https://clock-time.chat-plugin.lobehub.com",
     "height": 350,
